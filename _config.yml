@@ -1,0 +1,30 @@
+title: Chattanooga Python User Group
+description: We meet and share
+
+url: https://github.com/chattanooga-python
+baseurl: "/chapy" # set this to the root of you site when deployed
+paginate_path: "posts/page:num/"
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 10
+future: true
+
+navigation:
+ - title: Home
+   url: /index
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   email: void.no.logo@gmail.com
+   github: chattanooga-python
+   meetup: Chattanooga-Python-User-Group
+
+# stamplay:
+#   app_id: 'longhaulexample'
+
+google_analytics: ""
