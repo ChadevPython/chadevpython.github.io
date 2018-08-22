@@ -12,8 +12,8 @@ title: Contact
   <hr />
   <div class="contactContent">
     <p>
-      <strong>Caleb Salt</strong><br />
-      void.no.logo@gmail.com
+      <strong>Organizers</strong><br />
+      chattanoogapython@gmail.com
       <hr />
     </p>
   </div>

@@ -1,7 +1,7 @@
 title: Chattanooga Python User Group
 description: We meet and share
 
-url: chattanooga-python.github.io
+url: chattanoogapython.github.io
 baseurl: "/chapy" # set this to the root of you site when deployed
 paginate_path: "posts/page:num/"
 
@@ -20,8 +20,8 @@ navigation:
    url: /contact
 
 social:
-   email: void.no.logo@gmail.com
-   github: chattanooga-python
+   email: chattanoogapython@gmail.com
+   github: chadevpython
    meetup: Chattanooga-Python-User-Group
 
 # stamplay:
