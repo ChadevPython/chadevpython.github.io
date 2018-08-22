@@ -1,8 +1,8 @@
 title: Chattanooga Python User Group
 description: We meet and share
 
-url: chattanoogapython.github.io
-baseurl: "/chapy" # set this to the root of you site when deployed
+url: chattanoogapython.org
+#baseurl: "/chapy" # set this to the root of you site when deployed
 paginate_path: "posts/page:num/"
 
 markdown: redcarpet
