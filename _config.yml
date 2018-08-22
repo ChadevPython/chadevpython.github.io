@@ -18,6 +18,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Sponsors
+   url: /sponsors
 
 social:
    email: chattanoogapython@gmail.com
