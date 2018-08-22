@@ -26,6 +26,7 @@ title: Sponsors
   </div>
   <hr>
   <div class="sponsor">
+    <img src="{{ '/assets/img/mvp_logo.png' | prepend: site.baseurl }}" alt="mousevspython" />
     <p>
       Thank you to Mike Driscolls of <a href="http://www.blog.pythonlibrary.org/">Mouse Vs Python</a> for donating copies of his Python 101 book.
       <br>
