@@ -13,8 +13,12 @@ date: 2018-09-17
 ---
 
 <p class="intro">
-<span class="dropcap">T</span>BD
+<span class="dropcap">C</span>ome join us for a casual discussion night. We don't have an agenda so we'll openly talk about anything the group brings up.
 </p>
+
+If you have any questions or want to talk about a specific topic feel free to bring it up. Need input on something you're working on? Let's talk about it with the group. Want to learn more about a specific topic, this is a great chance to learn something new.
+
+We will also be doing a special __BOOK GIVE-A-WAY__ this month along with talking about our new sponsors and new website.
 
 <hr>
 Reminder: If you want to give a talk at an upcoming meetup please reach out.
