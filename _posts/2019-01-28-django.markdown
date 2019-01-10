@@ -13,27 +13,28 @@ date: 2019-01-28
 ---
 
 <p class="intro">
-<span class="dropcap">H</span>ands on Introduction to Flask - Part 2
+<span class="dropcap">W</span>ebframeworks Continued: Django Edition
 </p>
 
-We are going to dive deeper into Flask and see what it can do.
+Last meeting we took a look at Flask and some of what it could do.  This month
+we will dive into Django.
 
 ***
 
-[Flask](http://flask.pocoo.org/) is a microframework for Python based on Werkzeug, Jinja 2, and good intentions.
+[Django](https://www.djangoproject.com/) The web framework for perfectionists with deadlines.
 
 #### What’s in the Box?
 
-- built-in development server and debugger
-- integrated unit testing support
-- RESTful request dispatching
-- uses Jinja2 templating
-- support for secure cookies (client side sessions)
-- 100% WSGI 1.0 compliant
+- user authentication
+- ORM
+- url routing
+- site administration
+- templating
+- data modeling
 - Unicode based
 - extensively documented
 
-Juzten will walk us through concepts and getting started with the Flask framework.
+Caleb will walk us through concepts and getting started with the Django framework.
 
 
 <hr>
